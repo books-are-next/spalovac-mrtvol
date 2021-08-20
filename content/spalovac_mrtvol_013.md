@@ -40,7 +40,7 @@ Soudce se vyprostil z provazů, narovnal si tvrdý límec a motýlka, stoupl s
 
 „Může,“ pokrčil Willi rameny, „je to bojový sport. V boji nebo ve válce teče krev také. Ale správně téct při boxu nemá. Surové údery jsou zakázány, aspoň u nás. V Hitlerově mládeži, kde se učí box v základní škole, se vyučují jen přímé údery, hák je zakázán… der Haken darf im Übungsbetrieb des Jungvolks nicht angewandt werden… možná že v českém Klubu mladých v Praze to tak není.“
 
-„Aby si nevyrazil zub,“ řekla žena před Willim, když soudce rozhodil ruce, aby poslal oba borce do rohů, a pan Kopfrkingl si jí teď lépe všiml. V ruce měla program, na hlavě nějaký klobouk s pérem a na krku svazek korálů. Muž vedle ní byl menší, tlustý, na koleně držel tvrdý klobouk a mezi nohama hůl.
+„Aby si nevyrazil zub,“ řekla žena před Willim, když soudce rozhodil ruce, aby poslal oba borce do rohů, a pan Kopfrkingl si jí teď lépe všiml. V ruce měla program, na hlavě nějaký klobouk _s_ _pérem_ a na krku svazek korálů. Muž vedle ní byl menší, tlustý, na koleně držel tvrdý klobouk a mezi nohama hůl.
 
 A pak to začalo a Mili na to hleděl jako vyjevený.
 
@@ -94,13 +94,13 @@ Zazněl gong, soudce dupl a začal zápas třetí. Byl prudký hned od začátk
 
 „Neblázni. Co děláš? Koukej se.“
 
-„Že se ten v motýlku nebrání,“ vypískla, vzrušeně se točíc po lidech, „aby ho neklepla mrtvice. Je to ňáký sběratel. Že nemá tu zelenou síťku…“
+„Že se ten v motýlku nebrání,“ vypískla, vzrušeně se točíc po lidech, „aby ho neklepla mrtvice. Je to ňáký **sběratel.** Že nemá tu **zelenou síť****ku…**“
 
 „Nekecej,“ zavrčel tlustý muž už vztekle a bouchl holí, kterou měl mezi stehny, o zem, „jaký sběratel, jakou zelenou síťku, říkám, že je to soudce, ten neboxuje.“
 
 A pak se strhl v ringu velký poprask, točilo se to tam jako v kole, rány létaly a dopadaly a jiné byly ve vzduchu, jen dopadnout a narazit… tlustý soudce v bílém tvrdém límci a červeném motýlku mezi tím lítal, skákal, dupal, rozhazoval ruce a náhle…
 
-… náhle ten z Jednoty se nahrbil, napjal svaly, lýtka, vyrazil… a než se kdo nadál, soudce vzlétl metr do vzduchu jako motýl, zamával rukama a ležel na zemi jak široký tak dlouhý… a vzápětí ten z Jednoty vyrazil znovu a k zemi se skácel i řeznický učeň… Sál zpola zahřměl smíchem, ženy vylétly ze židlí, ta starší v brýlích vyhodila do vzduchu půllitr, zpola se ozvalo hulákání, pískot, křik… „Je mrtvý,“ křikl do strašlivého burácení Mili a třásl se jako ovce.
+… náhle ten z Jednoty se nahrbil, napjal svaly, lýtka, vyrazil… a než se kdo nadál, soudce vzlétl metr do vzduchu **jako motýl,** zamával rukama a ležel na zemi jak široký tak dlouhý… a vzápětí ten z Jednoty vyrazil znovu a k zemi se skácel i řeznický učeň… Sál zpola zahřměl smíchem, ženy vylétly ze židlí, ta starší v brýlích vyhodila do vzduchu půllitr, zpola se ozvalo hulákání, pískot, křik… „Je mrtvý,“ křikl do strašlivého burácení Mili a třásl se jako ovce.
 
 „No a kdyby,“ usmál se Willi, „was denn…“
 
@@ -124,7 +124,7 @@ U východu byl hluk a zmatek, byla tam starší žena v brýlích s prázdn�
 
 „Neboj se,“ řekl Willi stále ještě vlídně a s úsměvem, „Hitler musí mít úspěch, protože bojuje za vznešené cíle. Za záchranu sta milió­nů lidí z bídy a hladu a za spravedlivý řád, kde se lidé budou cítit jako v ráji. Zmizí křivdy, strach, utrpení…“
 
-„To je možné jen po smrti,“ usmál se pan Kopfrkingl a lehce mávl rukou, „jen po smrti v životě věčném. Když se už člověk dál nepřevtělí, ale dojde cíle. Dál se už nepřevtělí, dojde cíle leda nějaký faraón, světec, dalajláma…“ pan Kopfrkingl se usmál, „na zemi v tomhle vtělení to možné není. V tomhle životě můžeme utrpení jen omezovat, zkracovat, nic víc. Prach jsme a v prach se obrátíme,“ usmál se na nějakou ženu, kterou právě míjeli, „všiml sis té mladé růžolící dívky, co tam byla…“
+„To je možné jen po smrti,“ usmál se pan Kopfrkingl a lehce mávl rukou, „jen po smrti v životě věčném. Když se už člověk dál nepřevtělí, ale dojde cíle. Dál se už nepřevtělí, dojde cíle leda nějaký faraón, světec, dalajláma…“ pan Kopfrkingl se usmál, „na zemi v tomhle vtělení to možné není. V tomhle životě můžeme utrpení jen omezovat, _zkracovat,_ nic víc. Prach jsme a v prach se obrátíme,“ usmál se na nějakou ženu, kterou právě míjeli, „všiml sis té mladé růžolící dívky, co tam byla…“
 
 „Však jde o život věčný,“ přerušil ho Willi teď už trochu rázně, „o věčný život našeho národa. O věčnou německou říši, povolanou k tomu, aby spasila lidstvo a nastolila nový, šťastný řád. Dnes rozhodujeme o šťastném osudu Evropy a nevím, komu by to mohlo být jedno. Německým otcům a matkám rozhodně ne,“ ohlédl se po Milim, který šel pomalu za nimi s letáčkem v ruce.
 
@@ -132,7 +132,7 @@ U východu byl hluk a zmatek, byla tam starší žena v brýlích s prázdn�
 
 „Rozhodujeme o šťastném osudu Evropy?“
 
-„Ovšem,“ řekl Willi už trochu popuzeně, „ty ovšem ne. Ty v sobě tu kapku německé krve necítíš. Pro tebe nemá význam. My bojujeme,“ řekl příkře, „my, zbabělci ne. Pro strach člověk zapomíná na své povinnosti… no ano,“ řekl rázně, když chtěl pan Kopfrkingl něco namítnout, „na jiné povinnosti, na ty nejvyšší. Zapomíná na jiné lidi, na národ, na lidstvo… Dát nějaké ženské každý pátek či sobotu před kremací šesták, to je snadné. Strčit sem tam něco nějakému plesnivému žebráku, to dokáže každý, to dělají i kurvy,“ řekl a trochu se obrátil po Milim. „Ale bojovat za štěstí a spravedlnost sta miliónů lidí, to! Odstraňovat nezaměstnanost, bídu a potupu národa, do které byl vržen nepřítelem, očišťovat ho od parazitů a štěnic, vybojovávat mu životní prostor, to je něco jiného, Karl.“
+„Ovšem,“ řekl Willi už trochu popuzeně, „ty ovšem ne. Ty v sobě tu kapku německé krve necítíš. Pro tebe nemá význam. _My_ bojujeme,“ řekl příkře, _„__my__,_ zbabělci ne. Pro strach člověk zapomíná na své povinnosti… no ano,“ řekl rázně, když chtěl pan Kopfrkingl něco namítnout, „na _jiné_ povinnosti, na ty nejvyšší. Zapomíná na jiné lidi, na národ, na lidstvo… Dát nějaké ženské každý pátek či sobotu před kremací šesták, to je snadné. Strčit sem tam něco nějakému plesnivému žebráku, to dokáže každý, to dělají i kurvy,“ řekl a trochu se obrátil po Milim. „Ale bojovat za štěstí a spravedlnost sta miliónů lidí, _to__!_ Odstraňovat nezaměstnanost, bídu a potupu národa, do které byl vržen nepřítelem, očišťovat ho od parazitů a štěnic, vybojovávat mu životní prostor, to je něco jiného, Karl.“
 
 „Životní prostor,“ usmál se pan Kopfrkingl, „Wilhelm, já ti něco řeknu. Já vím dost věcí, třeba i to, jak se dělají rakve. Když takovou rakev zavřeš víkem, tvoří její průřez takový šestiúhelník, to je tvar, který člověku skýtá nejvíc místa. Má být dost vysoká, aby mu víko neleželo na tváři a na prsou, čím vyšší rakev, tím větší pohodlí. Nejlepší jsou rakve, které jsou tak prostorné, že by se tam vešli dva. Jediný prostor, který má cenu,“ usmál se pan Kopfrkingl, „je prostor v rakvi. A také éter, nekonečno, kam vzlétne duše,“ usmál se.
 

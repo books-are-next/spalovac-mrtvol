@@ -12,9 +12,6 @@ meta:
 chapters:
   - spalovac_mrtvol_001.html
   - spalovac_mrtvol_002.html
-  - spalovac_mrtvol_003.html
-  - spalovac_mrtvol_004.html
-  - spalovac_mrtvol_005.html
   - spalovac_mrtvol_006.html
   - spalovac_mrtvol_007.html
   - spalovac_mrtvol_008.html
@@ -30,8 +27,37 @@ chapters:
   - spalovac_mrtvol_018.html
   - spalovac_mrtvol_019.html
   - spalovac_mrtvol_020.html
-  - spalovac_mrtvol_021.html
-tocBase: []
+tocBase:
+  - link: spalovac_mrtvol_006.html
+    title: '1'
+  - link: spalovac_mrtvol_007.html
+    title: '2'
+  - link: spalovac_mrtvol_008.html
+    title: '3'
+  - link: spalovac_mrtvol_009.html
+    title: '4'
+  - link: spalovac_mrtvol_010.html
+    title: '5'
+  - link: spalovac_mrtvol_011.html
+    title: '6'
+  - link: spalovac_mrtvol_012.html
+    title: '7'
+  - link: spalovac_mrtvol_013.html
+    title: '8'
+  - link: spalovac_mrtvol_014.html
+    title: '9'
+  - link: spalovac_mrtvol_015.html
+    title: '10'
+  - link: spalovac_mrtvol_016.html
+    title: '11'
+  - link: spalovac_mrtvol_017.html
+    title: '12'
+  - link: spalovac_mrtvol_018.html
+    title: '13'
+  - link: spalovac_mrtvol_019.html
+    title: '14'
+  - link: spalovac_mrtvol_020.html
+    title: '15'
 static:
   - style
   - scripts
