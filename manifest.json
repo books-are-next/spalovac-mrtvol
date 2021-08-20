@@ -1,0 +1,430 @@
+{
+  "author": "Ladislav Fuks",
+  "identifier": "fuks-spalovac-mrtvol-776248c",
+  "languagecode": "cs",
+  "modified": "2021-08-20T08:17:51.097Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Spalovač mrtvol",
+  "revision": "776248c",
+  "generatedAt": {
+    "date": "Fri Aug 20 2021 08:51:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1629449486355
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 159,
+      "chars": 1017,
+      "ideas": 27,
+      "role": "colophon",
+      "order": null,
+      "next": "spalovac_mrtvol_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "spalovac_mrtvol_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "spalovac_mrtvol_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "spalovac_mrtvol_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "spalovac_mrtvol_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "spalovac_mrtvol_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "spalovac_mrtvol_001.html",
+      "next": "spalovac_mrtvol_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1",
+      "file": "spalovac_mrtvol_006.html",
+      "words": 2723,
+      "chars": 15943,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 2,
+      "prev": "spalovac_mrtvol_002.html",
+      "next": "spalovac_mrtvol_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "file": "spalovac_mrtvol_007.html",
+      "words": 3531,
+      "chars": 20746,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 3,
+      "prev": "spalovac_mrtvol_006.html",
+      "next": "spalovac_mrtvol_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "file": "spalovac_mrtvol_008.html",
+      "words": 2941,
+      "chars": 17365,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 4,
+      "prev": "spalovac_mrtvol_007.html",
+      "next": "spalovac_mrtvol_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "file": "spalovac_mrtvol_009.html",
+      "words": 2589,
+      "chars": 15266,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 5,
+      "prev": "spalovac_mrtvol_008.html",
+      "next": "spalovac_mrtvol_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "file": "spalovac_mrtvol_010.html",
+      "words": 1742,
+      "chars": 10340,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 6,
+      "prev": "spalovac_mrtvol_009.html",
+      "next": "spalovac_mrtvol_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "file": "spalovac_mrtvol_011.html",
+      "words": 3989,
+      "chars": 22879,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 7,
+      "prev": "spalovac_mrtvol_010.html",
+      "next": "spalovac_mrtvol_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "file": "spalovac_mrtvol_012.html",
+      "words": 4064,
+      "chars": 23562,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 8,
+      "prev": "spalovac_mrtvol_011.html",
+      "next": "spalovac_mrtvol_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "file": "spalovac_mrtvol_013.html",
+      "words": 3056,
+      "chars": 17265,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 9,
+      "prev": "spalovac_mrtvol_012.html",
+      "next": "spalovac_mrtvol_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "file": "spalovac_mrtvol_014.html",
+      "words": 3375,
+      "chars": 19590,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 10,
+      "prev": "spalovac_mrtvol_013.html",
+      "next": "spalovac_mrtvol_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "file": "spalovac_mrtvol_015.html",
+      "words": 3945,
+      "chars": 23164,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 11,
+      "prev": "spalovac_mrtvol_014.html",
+      "next": "spalovac_mrtvol_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "file": "spalovac_mrtvol_016.html",
+      "words": 2695,
+      "chars": 15801,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 12,
+      "prev": "spalovac_mrtvol_015.html",
+      "next": "spalovac_mrtvol_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "file": "spalovac_mrtvol_017.html",
+      "words": 2808,
+      "chars": 16267,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 13,
+      "prev": "spalovac_mrtvol_016.html",
+      "next": "spalovac_mrtvol_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "file": "spalovac_mrtvol_018.html",
+      "words": 2033,
+      "chars": 11680,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 14,
+      "prev": "spalovac_mrtvol_017.html",
+      "next": "spalovac_mrtvol_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "file": "spalovac_mrtvol_019.html",
+      "words": 2235,
+      "chars": 12835,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 15,
+      "prev": "spalovac_mrtvol_018.html",
+      "next": "spalovac_mrtvol_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "file": "spalovac_mrtvol_020.html",
+      "words": 2257,
+      "chars": 13591,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 16,
+      "prev": "spalovac_mrtvol_019.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 44142,
+      "chars": 257311,
+      "ideas": 737
+    },
+    "chapters": {
+      "words": 43983,
+      "chars": 256294,
+      "ideas": 710
+    }
+  }
+}
