@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Spalovač mrtvol",
@@ -6,7 +7,9 @@
       "author": "Ladislav Fuks",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-20T08:17:51.097Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "spalovac_mrtvol_001.md",
         "xhtml": "spalovac_mrtvol_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -470,3 +473,4 @@
     "generatedAt": 1629448486002
   }
 }
+
