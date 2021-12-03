@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-20T08:17:51.097Z'
   languageCode: cs
-chapters:
-  - spalovac_mrtvol_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - spalovac_mrtvol_002.html
   - spalovac_mrtvol_006.html
   - spalovac_mrtvol_007.html
@@ -27,6 +28,7 @@ chapters:
   - spalovac_mrtvol_018.html
   - spalovac_mrtvol_019.html
   - spalovac_mrtvol_020.html
+  - colophon.html
 tocBase:
   - link: spalovac_mrtvol_006.html
     title: '1'
@@ -64,5 +66,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

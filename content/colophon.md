@@ -1,15 +1,15 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Spalovač mrtvol
 
 Ladislav Fuks
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Spalovač mrtvol](https://search.mlp.cz/cz/titul/spalovac-mrtvol/174850/) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 1983. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -28,9 +28,7 @@ Verze 1.0 z 9. 1. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 _Největší lstí ďábla je,  
 když sám o sobě prohlašuje,  
@@ -39,9 +37,7 @@ když sám o sobě prohlašuje,
 Giovanni Papini
 
 
----
-title: ''
----
+***
 
 **Ladislav Fuks  
 Spalovač mrtvol**
