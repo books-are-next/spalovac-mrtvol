@@ -1,0 +1,189 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Spalovač mrtvol",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ladislav Fuks",
+    "publisher": "Městská knihovna v Praze",
+    "language": "CS",
+    "modified": "2021-12-03T07:16:09.968Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spalovac_mrtvol_021.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/spalovac_m_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_spalovac_mrtvol_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "1",
+      "href": "OEBPS/Text/spalovac_mrtvol_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "2",
+      "href": "OEBPS/Text/spalovac_mrtvol_007.xhtml#toc_marker-2"
+    },
+    {
+      "title": "3",
+      "href": "OEBPS/Text/spalovac_mrtvol_008.xhtml#toc_marker-3"
+    },
+    {
+      "title": "4",
+      "href": "OEBPS/Text/spalovac_mrtvol_009.xhtml#toc_marker-4"
+    },
+    {
+      "title": "5",
+      "href": "OEBPS/Text/spalovac_mrtvol_010.xhtml#toc_marker-5"
+    },
+    {
+      "title": "6",
+      "href": "OEBPS/Text/spalovac_mrtvol_011.xhtml#toc_marker-6"
+    },
+    {
+      "title": "7",
+      "href": "OEBPS/Text/spalovac_mrtvol_012.xhtml#toc_marker-7"
+    },
+    {
+      "title": "8",
+      "href": "OEBPS/Text/spalovac_mrtvol_013.xhtml#toc_marker-8"
+    },
+    {
+      "title": "9",
+      "href": "OEBPS/Text/spalovac_mrtvol_014.xhtml#toc_marker-9"
+    },
+    {
+      "title": "10",
+      "href": "OEBPS/Text/spalovac_mrtvol_015.xhtml#toc_marker-10"
+    },
+    {
+      "title": "11",
+      "href": "OEBPS/Text/spalovac_mrtvol_016.xhtml#toc_marker-11"
+    },
+    {
+      "title": "12",
+      "href": "OEBPS/Text/spalovac_mrtvol_017.xhtml#toc_marker-12"
+    },
+    {
+      "title": "13",
+      "href": "OEBPS/Text/spalovac_mrtvol_018.xhtml#toc_marker-13"
+    },
+    {
+      "title": "14",
+      "href": "OEBPS/Text/spalovac_mrtvol_019.xhtml#toc_marker-14"
+    },
+    {
+      "title": "15",
+      "href": "OEBPS/Text/spalovac_mrtvol_020.xhtml#toc_marker-15"
+    }
+  ]
+}
