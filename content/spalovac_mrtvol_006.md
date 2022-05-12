@@ -1,5 +1,6 @@
 ---
 title: '1'
+contentType: prose
 ---
 
 _„Něžná,_“ řekl pan Karel Kopfrkingl své krásné černovlasé ženě na prahu pavilónu dravců a lehký předjarní větřík mu provál vlasy, „tak jsme zase zde. Zde na tom drahém, požehnaném místě, kde jsme se před sedmnácti léty seznámili. Jestlipak si, Lakmé, vůbec ještě vzpomínáš, před _kým_ to bylo?“ A když Lakmé kývla, usmál se něžně do hlubin pavilónu a řekl: „Ano, před támhletím leopardem. Pojď, půjdem se tam podívat.“ A když pak překročili práh pavilónu a kráčeli dost těžkým zvířecím dusnem k leopardu, pan Kopfrkingl řekl:

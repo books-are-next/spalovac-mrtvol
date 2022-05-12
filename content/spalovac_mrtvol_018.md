@@ -1,5 +1,6 @@
 ---
 title: '13'
+contentType: prose
 ---
 
 „Nemohl jsem přijít včas,“ řekl pan Kopfrkingl dost suše, ale nikoli nevlídně řediteli Srnci za pár dní po návštěvě Casina a rozhledny v ředitelně, „stalo se, co jsem nepředvídal. Měl jsem porady.“ Ředitel pohlédl na pana Kopfrkingla a neřekl ani slovo, v jeho tváři se nehnul ani sval, nepohnulo ani oko, pan Kopfrkingl se mírně uklonil a šel. „Ředitel,“ řekl si cestou do šatny na schodech, „je nesvůj, jako by tušil, že se kolem něho něco děje. Že se o něm uvažuje a mluví. Že tu už dlouho nebude. Není to zlý člověk,“ řekl si, „ale co naplat. Nelze trpět škůdce na takovýchhle místech. Škůdce na takovýchhle místech by přece netrpěl nikdo, je to samozřejmé, lidské. Co řekl o tom spálení Němců v pecích, to je…“ pan Kopfrkingl prudce zachvěl hlavou, přikryl si dlaní oči a pak přidal do kroku, aby už byl radši v šatně. Došel do šatny a převlékl se. U žárovišť se usmál na Zajíce a Berana, kteří mlčky a chladně sledovali teploměry, mikrofonem znělo z obřadní síně „Čechy krásné, Čechy mé…“ zeptal se jich, kde je pan Dvořák, a Zajíc hodil hlavou na konec chodby k přípravně.

@@ -1,5 +1,6 @@
 ---
 title: '3'
+contentType: prose
 ---
 
 „Koupil jsem ti, nebeská, obrázky,“ řekl pan Kopffkingl nedlouho po návštěvě panoptika ženě v jejich obdivuhodné jídelně, kde kromě jiných věcí byla i knihovna, skříňka, stojací lampa, malé zrcadlo a rádio, „obrázky z prvního rozšířeného příjmu. Aby náš domov byl ještě nádhernější.“

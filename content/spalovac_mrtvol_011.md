@@ -1,5 +1,6 @@
 ---
 title: '6'
+contentType: prose
 ---
 
 Dosavadní vláda odstoupila a v čelo nové nastoupil jednooký generál, pak vyhlásili mobilizaci. Život se ocitl v děsném kole, ale všechno drželo pohromadě, běželo, letělo vpřed, jen doletět, narazit a tasit zbraně. Za několik dní po vyhlášení mobilizace přinesl pan Fenek do krematoria zvláštní věc.

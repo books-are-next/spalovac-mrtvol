@@ -1,5 +1,6 @@
 ---
 title: '10'
+contentType: prose
 ---
 
 „Willi mi dal balík v únoru a ejhle, dnes už psal,“ řekl pan Kopfrkingl v jídelně své tmavovlasé Lakmé, Zině a Milimu za čtvrt roku po Vánocích, „nuže tedy. Provedu to v místnosti, kterou mám nejradši z celého bytu, v koupelně, a nevyjdu dřív, než budu úplně hotov. _Úchvatné_,“ řekl a myslil všechny, „neklepejte na dveře a nic na mne nevolejte, ať se soustředím. Stoupněte si daleko ode dveří, ať se, až vejdu, neleknete, první dojem bude asi otřesný.“ Kývli dost nejistě, ba ustrašeně, pan Kopfrkingl vzal balík a zmizel v koupelně.

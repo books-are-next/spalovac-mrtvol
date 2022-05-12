@@ -1,5 +1,6 @@
 ---
 title: '5'
+contentType: prose
 ---
 
 Doktor Bettelheim bydlil se svou starší krásnou chotí, synovcem Janem a hospodyní Anežkou Zelenou nad Kopfrkinglovými, nad jídelnou Kopfrkinglových měl starý lékař ordinaci, ale patřil mu ještě i byt vedlejší.

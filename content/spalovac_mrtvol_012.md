@@ -1,5 +1,6 @@
 ---
 title: '7'
+contentType: prose
 ---
 
 Bylo po záboru Sudet a byt Kopfrkinglů zářil.
