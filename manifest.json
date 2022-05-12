@@ -1,21 +1,42 @@
 {
-  "author": "Ladislav Fuks",
-  "edition": "beletrie",
-  "identifier": "fuks-spalovac-mrtvol-fe7befc",
-  "languagecode": "cs",
-  "modified": "2021-08-20T08:17:51.097Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Spalovač mrtvol",
-  "revision": "fe7befc",
+  "author": "Ladislav Fuks",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fuks-spalovac-mrtvol-ad89b56",
+  "revision": "ad89b56",
+  "readingOrder": [
+    "promo.html",
+    "spalovac_mrtvol_006.html",
+    "spalovac_mrtvol_007.html",
+    "spalovac_mrtvol_008.html",
+    "spalovac_mrtvol_009.html",
+    "spalovac_mrtvol_010.html",
+    "spalovac_mrtvol_011.html",
+    "spalovac_mrtvol_012.html",
+    "spalovac_mrtvol_013.html",
+    "spalovac_mrtvol_014.html",
+    "spalovac_mrtvol_015.html",
+    "spalovac_mrtvol_016.html",
+    "spalovac_mrtvol_017.html",
+    "spalovac_mrtvol_018.html",
+    "spalovac_mrtvol_019.html",
+    "spalovac_mrtvol_020.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Dec 03 2021 07:17:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638515825148
+    "date": "Thu May 12 2022 10:35:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351745780
   },
   "documents": [
     {
-      "title": "Spalovač mrtvol",
-      "file": "spalovac_mrtvol_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +44,17 @@
       "order": 0,
       "prev": null,
       "next": "spalovac_mrtvol_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "1 • Spalovač mrtvol",
+      "title": "1",
       "file": "spalovac_mrtvol_006.html",
       "words": 2723,
       "chars": 15943,
       "ideas": 38,
       "role": "chapter",
       "order": 1,
-      "prev": "spalovac_mrtvol_002.html",
+      "prev": "promo.html",
       "next": "spalovac_mrtvol_007.html",
       "toc": [
         {
@@ -54,7 +67,7 @@
       ]
     },
     {
-      "title": "2 • Spalovač mrtvol",
+      "title": "2",
       "file": "spalovac_mrtvol_007.html",
       "words": 3531,
       "chars": 20746,
@@ -74,7 +87,7 @@
       ]
     },
     {
-      "title": "3 • Spalovač mrtvol",
+      "title": "3",
       "file": "spalovac_mrtvol_008.html",
       "words": 2941,
       "chars": 17365,
@@ -94,7 +107,7 @@
       ]
     },
     {
-      "title": "4 • Spalovač mrtvol",
+      "title": "4",
       "file": "spalovac_mrtvol_009.html",
       "words": 2589,
       "chars": 15266,
@@ -114,7 +127,7 @@
       ]
     },
     {
-      "title": "5 • Spalovač mrtvol",
+      "title": "5",
       "file": "spalovac_mrtvol_010.html",
       "words": 1742,
       "chars": 10340,
@@ -134,7 +147,7 @@
       ]
     },
     {
-      "title": "6 • Spalovač mrtvol",
+      "title": "6",
       "file": "spalovac_mrtvol_011.html",
       "words": 3989,
       "chars": 22879,
@@ -154,7 +167,7 @@
       ]
     },
     {
-      "title": "7 • Spalovač mrtvol",
+      "title": "7",
       "file": "spalovac_mrtvol_012.html",
       "words": 4064,
       "chars": 23562,
@@ -174,7 +187,7 @@
       ]
     },
     {
-      "title": "8 • Spalovač mrtvol",
+      "title": "8",
       "file": "spalovac_mrtvol_013.html",
       "words": 3056,
       "chars": 17265,
@@ -194,7 +207,7 @@
       ]
     },
     {
-      "title": "9 • Spalovač mrtvol",
+      "title": "9",
       "file": "spalovac_mrtvol_014.html",
       "words": 3375,
       "chars": 19590,
@@ -214,7 +227,7 @@
       ]
     },
     {
-      "title": "10 • Spalovač mrtvol",
+      "title": "10",
       "file": "spalovac_mrtvol_015.html",
       "words": 3945,
       "chars": 23164,
@@ -234,7 +247,7 @@
       ]
     },
     {
-      "title": "11 • Spalovač mrtvol",
+      "title": "11",
       "file": "spalovac_mrtvol_016.html",
       "words": 2695,
       "chars": 15801,
@@ -254,7 +267,7 @@
       ]
     },
     {
-      "title": "12 • Spalovač mrtvol",
+      "title": "12",
       "file": "spalovac_mrtvol_017.html",
       "words": 2808,
       "chars": 16267,
@@ -274,7 +287,7 @@
       ]
     },
     {
-      "title": "13 • Spalovač mrtvol",
+      "title": "13",
       "file": "spalovac_mrtvol_018.html",
       "words": 2033,
       "chars": 11680,
@@ -294,7 +307,7 @@
       ]
     },
     {
-      "title": "14 • Spalovač mrtvol",
+      "title": "14",
       "file": "spalovac_mrtvol_019.html",
       "words": 2235,
       "chars": 12835,
@@ -314,7 +327,7 @@
       ]
     },
     {
-      "title": "15 • Spalovač mrtvol",
+      "title": "15",
       "file": "spalovac_mrtvol_020.html",
       "words": 2257,
       "chars": 13591,
@@ -334,11 +347,11 @@
       ]
     },
     {
-      "title": "Tiráž • Spalovač mrtvol",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 154,
-      "chars": 995,
-      "ideas": 25,
+      "words": 136,
+      "chars": 859,
+      "ideas": 20,
       "role": "colophon",
       "order": null,
       "prev": "spalovac_mrtvol_020.html",
@@ -356,9 +369,9 @@
   ],
   "totals": {
     "all": {
-      "words": 44143,
-      "chars": 257328,
-      "ideas": 739
+      "words": 44125,
+      "chars": 257192,
+      "ideas": 734
     },
     "chapters": {
       "words": 43983,

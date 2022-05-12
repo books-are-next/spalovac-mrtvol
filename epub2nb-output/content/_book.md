@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Spalovač mrtvol
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - spalovac_mrtvol_002.html
+  - promo.html
   - spalovac_mrtvol_006.html
   - spalovac_mrtvol_007.html
   - spalovac_mrtvol_008.html

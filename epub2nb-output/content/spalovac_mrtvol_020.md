@@ -1,5 +1,6 @@
 ---
 title: '15'
+contentType: prose
 ---
 
 A pak, po vítězném tažení polském, byl pan Karl Kopfrkingl volán k nejvyššímu šéfovi pražského sicherheitsdienstu a tajemníku pana říšského protektora Boehrmannovi, Boehrmannovi do té světlé široké budovy se sloupy, před níž bylo tolik aut a na níž vlála říšská vlajka, do pracovny, kde to sladce vonělo santalovým dřevem a kde kromě krásných záclon, tlustého koberce a velkého portrétu Vůdce viselo i několik jiných nádherných obrazů, a zde, v této pracovně nejvyššího šéfa pražského sicherheitsdienstu a tajemníka pana říšského protektora bylo mu důvěrně sděleno, s jakým experimentem se počítá, bylo to na podzim 1939.

@@ -1,5 +1,6 @@
 ---
 title: '12'
+contentType: prose
 ---
 
 „Jsme zde,“ pan Kopfrkingl se dost nenápadně nadýchl pod zelenými košatými stromy, jako by si chtěl tajně pročistit plíce, „jsme zde.“ Pak si pohladil vlasy, kterými mu provál slabý větřík, ukázal vzhůru a řekl:

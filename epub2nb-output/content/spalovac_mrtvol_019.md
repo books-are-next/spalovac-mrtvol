@@ -1,5 +1,6 @@
 ---
 title: '14'
+contentType: prose
 ---
 
 Ano, byl to pro děti otřes, co matka učinila, ale v životě je třeba smířit se s ledačíms.

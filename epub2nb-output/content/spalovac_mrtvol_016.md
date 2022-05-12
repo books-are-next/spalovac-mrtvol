@@ -1,5 +1,6 @@
 ---
 title: '11'
+contentType: prose
 ---
 
 A za týden po večeři na židovské radnici přišel 15. březen a s ním vše, co se toho dne stalo a od toho dne dělo, říšská _branná_ moc vtrhla do země. Vůdce přijel do Prahy, říšská vlajka zavlála nad Pražským hradem, domy a snad i nad krematoriem… a pan Karl Kopfrkingl… Pan Kopfrkingl snad, když právě nebyl na svém pracovišti, postával na pražských ulicích a hleděl na armádu, četl německé nápisy nad obchody, snad zašel i na Ovocný trh přečíst si nápis nad knihařstvím pana Kádnera a do Nekázanky přečíst si nápis nad rámařstvím pana Holého, rozhodně však často zašel do Růžové ulice potěšit se aspoň pohledem z druhého chodníku bílým mramorovým vchodem Casina se třemi schody, který mu připomínal vilu boháče či obzvlášť vznešenou obřadní síň anebo též palác úchvatných záhad, takové stříbrné pouzdro… a pak v dubnu, nějak kolem Vůdcových narozenin, se mu konečně dostalo cti, že byl do toho Casina pozván.

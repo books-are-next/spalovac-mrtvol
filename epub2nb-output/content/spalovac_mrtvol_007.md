@@ -1,5 +1,6 @@
 ---
 title: '2'
+contentType: prose
 ---
 
 V dřevěné pokladně u stanu seděl starší tlustší mužík v bílém tvrdém límci a červeném motýlku a prodával lístky. Vchod do stanu byl zakryt rudým závěsem s třásněmi a stál před ním hlouček lidí, který zřejmě čekal, až bude vpuštěn. Pan Kopfrkingl koupil v dřevěné pokladně lístky a pak popošel s drahými k hloučku.
