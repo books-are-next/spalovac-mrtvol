@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Dnes už byl pátek a stařena, když viděla přicházet pana Kopfrkingla, už pokyvovala. Stávala tu každý pátek ráno a v sobotu odpoledne, i když pršelo, i v zimě, když padal sníh. Teď však bylo léto, neměla ani šátek a vypadala jako šedivá sudička. Pan Kopfrkingl jí dal šesták a vešel k vrátnici nádvoří. Pohlédl na zarámovaný program dnešního dne, bylo to pět mužů a pět žen, mezi nimi třicetiletá paní Strunná. Pan Kopfrkingl se pozdravil s panem Vránou, který byl nemocen s játry a vařil si ve vrátnici čaj, a pomalu kráčel liduprázdným nádvořím k budově. Patnáct let vcházím kolem pana Vrány a jeho vrátnice do Chrámu smrti, myslil si, střídavě hledě na dlaždice na zemi a na čiré modré nebe nad budovou, patnáct let sem takhle vcházím a nepřestává mě obestírat posvátný cit. Je to něco podobného jako mé manželství. Sedmnáct let jsem s Lakmé, pohlédl na ruku, na níž měl snubní prsten, a vzrušuje mě stejně jako první den, když jsme se seznámili v zoologické zahradě u leoparda, šťastná lidská láska. Chudáci, co ji nikdy nepoznali… Pak vešel do budovy, kde v druhé vrátnici seděl pan Fenek. Pan Fenek byl starý utrápený podivín s dlouhým nehtem na malíčku. Za vrátnicí měl kumbál s kanapem, skříňkou a židlí. Když pan Kopfrkingl šel kolem, pan Fenek sklopil hlavu a zachvěl novinami, které držel v ruce a snad předtím četl, pan Kopfrkingl se usmál a kývl. Pak prošel kouskem chodby a vešel do šatny. Beran a Zajíc byli už v montérkách.
 
 „Už jsi to četl,“ řekl Zajíc, „Angličané nás nutí, abychom henleinov­cům ustoupili. Aby nás tak ještě s tou Francií nechali napospas Němcům, mám takovou starost…“
@@ -23,9 +25,9 @@ Vyšli na chodbu a pan Dvořák se nesměle zeptal, zda si smí zapálit cigare
 
 „Tenhle mikrofon,“ řekl, ukazuje na mikrofon, který se černal na bílých kachlíčkách, „ten je tu proto, abychom slyšeli průběh z obřadní síně. Průběh z obřadní síně, pane Dvořák, poslouchat můžete, uslyšíte krásné řeči a vznešenou hudbu. Máte rád hudbu, pane Dvořák?“ zeptal se, a když mladík, sypaje si popel z cigarety do dlaně, kývl, pan Kopfrkingl řekl: „To je, pane Dvořák, dobře. Citliví lidé hudbu zpravidla milují. Chudáci, kteří umírají, aniž poznali krásu Schuberta či Liszta. Nepocházíte snad z příbuzenstva Antonína Dvořáka, autora Čerta a Káči, Šelmy sedláka, Rusalky…“ a když pan Dvořák zavrtěl hlavou, pan Kopfrkingl omluvně řekl: „U nás často uslyšíte Dvořákovo Largo z Novosvětské, Fibichův Poem, Zasviť mi ty slunko zlaté, Čechy krásné, Čechy mé… tak to je mikrofon. Tenhle knoflík,“ pan Kopfrkingl ukázal na knoflík na bílém kachlíku, „otevírá železnou oponu obřadní síně a pouští lidi do éteru. Ale tu my teď za nového ředitele otevíráme jen někdy. Zpravidla nám ji otevírá pan Pelikán nahoře. Pan Pelikán a ředitel jsou slušní lidé, dobře s nimi vycházíme, uklízí jim tam paní Podzimková… A nyní pohleďte na tuto tabulku,“ řekl pan Kopfrkingl a přistoupil s Dvořákem ke zdi, na níž visela tabulka na černé hedvábné šňůře.
 
-  
+</section>
 
-   
+<section>
 
 I.
 
@@ -93,7 +95,9 @@ II.
 
 16.15–17.30
 
-  
+</section>
+
+<section>
 
   
 
@@ -118,3 +122,5 @@ Pan Kopfrkingl sledoval pak mikrofonem obřad ze síně, druhou větu ze Schuber
 „Ach jo, Jozífku,“ řekl Zajícovi, ale také Dvořákovi, který se tiše díval a byl zřejmě stále celý pryč, „před chvílí jsem poslouchal řeč z pohřbu o tom, co je jeden lidský život, myslel jsem na dceru pana Holého, jak v rámařství v Nekázance měří lišty, na naši paní Liškovou, která tu uklízí a dnes byla nějak skleslá… co všechno smrt nám lidem bere. Kdyby lidstvo bylo tak silné, že by přemohlo i přírodu! Kdyby se zbavilo utrpení.“
 
 A pozorně sledoval teploměr prvního žároviště, aby vznikl popel co nejčistší a nejjemnější.
+
+</section>

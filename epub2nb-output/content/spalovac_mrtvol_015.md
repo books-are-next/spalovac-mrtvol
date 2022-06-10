@@ -3,6 +3,8 @@ title: '10'
 contentType: prose
 ---
 
+<section>
+
 „Willi mi dal balík v únoru a ejhle, dnes už psal,“ řekl pan Kopfrkingl v jídelně své tmavovlasé Lakmé, Zině a Milimu za čtvrt roku po Vánocích, „nuže tedy. Provedu to v místnosti, kterou mám nejradši z celého bytu, v koupelně, a nevyjdu dřív, než budu úplně hotov. _Úchvatné_,“ řekl a myslil všechny, „neklepejte na dveře a nic na mne nevolejte, ať se soustředím. Stoupněte si daleko ode dveří, ať se, až vejdu, neleknete, první dojem bude asi otřesný.“ Kývli dost nejistě, ba ustrašeně, pan Kopfrkingl vzal balík a zmizel v koupelně.
 
 „Tak jsem si vždycky říkal, když jsem přišel od toho našeho dobrého doktora Bettelheima, proč jen ten Hitler v tom Německu tak pronásleduje Židy,“ řekl si koupelně pan Kopfrkingl, a pohlédl na krásnou bílou vanu, na bílý lesklý ventilátor, kde na skobě visela šňůrka, a na žlutého motýla na zdi, „proč je tak pronásleduje, vždyť jsou to tak milí, laskaví a obětaví lidé. A teď už to vím, Willi mi to vysvětlil. Pronásleduje je proto, že jsou proti němu. Že jsou proti německému národu. Protože je to nešťastný, zbloudilý národ, který nechápe…“ Pan Kopfrkingl smutně svěsil hlavu a rozvázal balík.
@@ -45,7 +47,9 @@ Lakmé ustoupila, byla stále dost neklidná, a pak konečně řekla:
 
 Když sestupoval ze schodů, nahrben a drže se zábradlí, napadlo ho, co by asi bylo, kdyby byl přece jen někdo zpozoroval, jak vyšel ze dveří, byl by si snad mohl myslit, že paní Kopfrkinglová přijímá v bytě žebráky. „Kdyby mě tak byl viděl třeba ten dobrý doktor Bettelheim, kde kterému tajně chodím na prohlídky, nejsem-li nakažen,“ pomyslil si, sestupuje ze schodů, nahrben a drže se zábradlí, „kdyby byl viděl vyjít tohohle odporného žebráka od Kopfrkinglů právě on. Anebo jeho starší krásná paní, nebo jejich synovec Jan, nebo jejich hospodyně Anežka v červené zástěře, ta dobrá, věrná duše…“ Pak už byl téměř dole… a náhle se mu srdce téměř zastavilo, právě vešla do domu paní Prachařová, kterou už tak dlouho v domě nepotkal, a vedle ní Vojtěch. Uctivě se jim vyhnul, ustoupil ke zdi… přešli ho s udiveným pohledem a snad se za ním ještě otočili… dovlekl se k domovním dveřím. „Nepoznali,“ řekl si u dveří, „ovšem, jak by mohli, maska je výtečná, jak dokonale umí člověka přeměnit, proměnit… chudák paní Prachařová, chudák Vojta, aby to nezdědil po otci.“ Vyšel na ulici, vmísil se mezi lidi, kteří právě přecházeli kolem domu, ale ještě se trochu otočil a tu se mu zdálo, jako by na druhém chodníku v dálce postávala Zina a dívala se. O kus dál vykonával malý pinčl svou potřebu.
 
-  
+</section>
+
+<section>
 
 Německé Casino v Růžové ulici, k němuž se pan Kopfrkingl s jednou nohou pozadu a trupem předkloněným dovlekl, mělo vchod se třemi schody, obložený bílým mramorem. „Bílé mramorové vchody se třemi schody miluji,“ myslil si pan Kopfrkingl a pomalu přecházel na protější chodník, „připadají mi jako vchody do vily nějakého boháče. Mohly by to být i vchody do nějaké vznešené obřadní síně. Willi je uvnitř,“ myslil si, „Willi je tam, já jsem tam ještě nikdy nebyl, ale znám to z jeho vyprávění, koberce, zrcadla, obrazy… umývárny, koupelny… prvotřídní pražská německá společnost. poslanci, továrníci, profesoři německé univerzity, ovšem ne všichni… pan Boehrmann, který jezdí do Berlína na porady s ministry, a prvotřídní číšnice, barmanky a společnice…“ pan Kopfrkingl došel na protější chodník a bezděčně se podepřel o zeď tamního domu… a pak zamžoural skrz své brejličky, trochu nohou zakročil a trup sklonil, aby Willi, až vyjde z toho bílého vchodu se třemi schody, ho našel ve správném postoji, a zatímco tak stál u zdi protějšího domu a hleděl na bílý vchod, prošlo kolem něho pár lidí, kterých si ani nevšiml. Ale jedné ženy si všiml. Měla štíhlé tělo a větší prsa, byla zcela cizí, nikdy v životě ji neviděl. Sáhla do kabelky, a než se pan Kopfrkingl vzpamatoval, ocitl se v jeho dlani šesták. Ani si neuvědomil, že o zlomek vteřiny předtím napřáhl ruku s dlaní vzhůru, jako když doma vylezl z koupelny. Skoro se mu po tom daru zastavilo srdce. „Jak dobrá kráska,“ myslil si, když se probral z překvapení, „jaký důkaz pro mou masku…“ a v té chvíli už viděl, že od vchodu Casina kráčí k němu rázným krokem přítel Willi.
 
@@ -71,17 +75,23 @@ Willi Reinke se odpoutal a pan Kopfrkingl si řekl:
 
 „Ani mi nedal ten šesták, co mi měl naoko dát, bylo to zbytečné. Skoro bych měl z téhle podivuhodné věci horečku, je to podivuhodnější než stříbrné pouzdro. Je to skoro tak zajímavé a podivné, tahle má proměna, proměna, jako převtělování dalajlámy v mé knize o Tibetu, ač to s tím vůbec nesouvisí, tohle je přece jen taková má obyčejná maska, nic víc. Kdyby mě tak viděl ten náš pan Fenek, chudák, nebo chudák pan Dvořák,“ vzpomněl si znovu, „ale to nic. Mé čelo je chladné jako kov, má ruka pevná a mé srdce bije jako z germánské oceli, je to zkouška!“ A ocelově chladně se ve své masce vmísil mezi ty ubohé nešťastné lidi na ulici…
 
-  
+</section>
+
+<section>
 
 Před židovskou radnicí v Maislově stála modrá osobní tatrovka a pan Kopfrkingl se k ní začal belhat, jak nejlépe uměl. Viděl rozsvícenou lampu, za ní zasklenou tabulku a vedle vchod. „Jak tenhle vchod vypadá,“ řekl si v duchu a belhal se, jak nejlépe uměl, „zde není po mramoru a schodech ani stopy, je tu jen šedá omítka a černá vrata s kováním, no ovšem, tohle není německé Casino, tohle je židovská radnice…“ Chvíli okouněl u tatrovky, přes brejličky hleděl na její modrou barvu, koukal napravo, nalevo, dával tváři výraz bezmocnosti… do radnice šlo několik lidí a všimli si ho. „Musím k té tabulce u vchodu,“ řekl si a dotáhl nohu k tabulce u vchodu, dotkl se brýlí, a aniž napřímil trup, jal se číst:
 
-  
+</section>
+
+<section>
 
 _CHEVRA SUDA_
 
 _Pražská Chevra Kadiša pořádá v den narozenin a smrti našeho učitele Mojžíše dne 7. adaru, tj. 6. března 1939, společnou večeři „Chevra suda“. Tato suda se bude konat po modlitbě mincha v sále Pohřebního bratrstva v 1 8 hodin ve zdejší radnici. Při večeři promluví duchovní a vrchní kantoři zapějí náboženské zpěvy. Účastníci sudy budou podle tradice pohoštěni._
 
-  
+</section>
+
+<section>
 
 „Hostina,“ zašeptal pan Kopfrkingl s jednou nohou vzadu, „výročí narození a smrti Mojžíše, narodil se _týž den, co zemřel,_ jaká fantazie, jaký mýtus…“ usmál se a pak se usmál znovu a řekl si: „Sál _Pohřebního bratrstva._ Jaképak asi to Pohřební bratrstvo je a jakpak asi ten sál vypadá. Koberce, zrcadla, obrazy… koupelny… jako v Casinu…“ usmál se, „tam jistě nejsou. Bude to asi něco jako naše přípravna v kremaci nebo obřadní síň, ovšem bez křížku,“ a řekl si, že tihle chudáci se spalovat nedávají, jdou do země, kde to trvá dvacet let, dvacet let, než se navrátí v prach, z kterého vzešli, a řekl si: „Zbloudili i v tomhle, nechápou. Jak to řekl Willi? Tak starý národ, že už má sklerózu…“ Pak slyšel, že přichází víc lidí, otočil se, pokrčil rameny na předkloněném trupu, ještě více se nahrbil, prosebně zdvihl oči zpod brejliček a nastavil dlaň.
 
@@ -94,3 +104,5 @@ Na ulicích byla již tma, svítily všechny lampy… Když se doploužil k Jin
 Pak ho pohladila myšlenka na snubní prstýnek, který nechal doma v dlani své nebeské tmavovlásky, která byla nějak skleslá a nesvá, a začal běžet. Za věží na křižovatce, kde jezdily elektriky a auta, potkal nějakou mladou růžolící dívku v černých šatech, zavěšenou do mládence. Jen tak letmo si jí všiml, pak běžel dál a potkal nějakou starší ženu v brýlích, ta tu asi někde poblíž bydlila, protože nesla ve džbáně pivo… pak, za křižovatkou, potkal nějakého staršího tlustého mužíka v bílém tvrdém límci s červeným motýlkem, prsty jedné ruky počítal nějaké lístečky, druhou ruku měl sevřenou v pěst… běžel dál, ale v jedné ulici u rohu na chvilku zpomalil, stála tam pod lampou jakási kráska. Všiml si, že je plavovlasá, zaslechl, jak někomu, koho špatně viděl, říká:
 
 „Někdo pije se sodou, někdo s ledem…“ Pak si znovu vzpomněl na Casino a začal běžet tak rychle, jak jen s odchlíplými podešvemi mohl.
+
+</section>

@@ -3,6 +3,8 @@ title: '15'
 contentType: prose
 ---
 
+<section>
+
 A pak, po vítězném tažení polském, byl pan Karl Kopfrkingl volán k nejvyššímu šéfovi pražského sicherheitsdienstu a tajemníku pana říšského protektora Boehrmannovi, Boehrmannovi do té světlé široké budovy se sloupy, před níž bylo tolik aut a na níž vlála říšská vlajka, do pracovny, kde to sladce vonělo santalovým dřevem a kde kromě krásných záclon, tlustého koberce a velkého portrétu Vůdce viselo i několik jiných nádherných obrazů, a zde, v této pracovně nejvyššího šéfa pražského sicherheitsdienstu a tajemníka pana říšského protektora bylo mu důvěrně sděleno, s jakým experimentem se počítá, bylo to na podzim 1939.
 
 „K očistě a cti německého lidu. K vítěznému boji za novou, šťastnou Evropu. K spravedlivému uspořádání světa, Vůdcovu novému řádu,“ řekli mu a zdvihli sklenky z lesklého stolu, za nimiž ležela i nějaká kniha, a byl tam též Willi Reinke a ten mu řekl: „Smím ti něco nabídnout, koňak, českou slivovici…“ a pak mu řekli:
@@ -63,10 +65,14 @@ Když Zina odešla, dostal návštěvu tibetského vyslance. Uvařil čaj s má
 
 Mnich se usmál a v té chvíli jako by se panu Karl Kopfrkinglovi zamlžil svět. Ale bylo to zamlžení v jeho vlastní duši. Když se trochu vzpamatoval, slyšel hrát nádhernou hudbu, byla to velká árie z Donizettiho Lucie, klavírní koncert, Nedokončená, Parsifal a Eroica… a pak nějaká skočná, klarinet, housličky, též basa, a pak nějaké bubínky, tympány a mlýnky… a viděl, že v jídelně stojí poblíž kočky a dveří s portrétem Vůdce a říšského kancléře muži v bílém, tři _andělé_, z nichž jeden se jmenoval Piskoř… a pak k němu přistupují, berou ho za paže a nebesky laskavě ho vedou z bytu, po schodech, kde uhýbá z cesty nějaká zděšená paní a její syn… před dům. před dům, kde stálo auto. bílé auto, auto pro anděly, zdobené červeným křížem a německou poznávací značkou. Když sehnul hlavu, aby vstoupil, ucítil lyzol či karbol a lehký podzimní větřík mu provál vlasy.
 
-  
+</section>
+
+<section>
 
 V polovici května 1945 – po válce – viděl pan Kopfrkingl okénkem sanitního vlaku na jakémsi nádražíčku malého německého města zástupy vyhublých lidí, vracejících se domů. Zdálo se mu, že mezi nimi poznává nějaké známé tváře, tvář jakéhosi pana Strausse a Rubinsteina a starou tvář doktora Bettelheima a nějakého mládence, snad jeho Jana, a také nějakou ženu, která mu přišla známá. Usmíval se, byl by jim rád zamával, ale právě měl ruku v kapse a právě v té kapse něco nahmatal. Byl to kousek nějakého provázku a kostka cukru. A tak se jen obrátil do kupé a řekl bezrukým a beznohým:
 
 „Šťastné lidstvo. Spasil jsem je. Jistě už nikdy nebude na světě pronásledování, nespravedlnost a utrpení, jistě už ne, ani koně… Pánové, teď nastává ten nový řád.“
 
 Z komína pražského krematoria šel žlutavý dýmek, v té chvíli tam právě spalovali morfinistu.
+
+</section>

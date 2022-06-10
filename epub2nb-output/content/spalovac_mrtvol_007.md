@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 V dřevěné pokladně u stanu seděl starší tlustší mužík v bílém tvrdém límci a červeném motýlku a prodával lístky. Vchod do stanu byl zakryt rudým závěsem s třásněmi a stál před ním hlouček lidí, který zřejmě čekal, až bude vpuštěn. Pan Kopfrkingl koupil v dřevěné pokladně lístky a pak popošel s drahými k hloučku.
 
 „To bude něco hroznýho?“ zeptal se Mili nejistě, hledě na stan, na malované kostlivce na stěně a na vchod s rudým závěsem s třásněmi, a pan Kopfrkingl smutně kývl hlavou.
@@ -102,3 +104,5 @@ Komediantka rychle poděkovala hostům za příspěvek, přála jim šťastnou c
 „Tak co, Mili, co dělá synovec pana doktora Bettelheima Jan? A co Vojtík Prachařů ze třetího patra? Co?“ zeptal se vlídně, a aniž slyšel Miliho odpověď, řekl:
 
 „Nezůstávej tak pozadu, Mili, pospěš si.“
+
+</section>
