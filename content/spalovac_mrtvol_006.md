@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 _„Něžná,_“ řekl pan Karel Kopfrkingl své krásné černovlasé ženě na prahu pavilónu dravců a lehký předjarní větřík mu provál vlasy, „tak jsme zase zde. Zde na tom drahém, požehnaném místě, kde jsme se před sedmnácti léty seznámili. Jestlipak si, Lakmé, vůbec ještě vzpomínáš, před _kým_ to bylo?“ A když Lakmé kývla, usmál se něžně do hlubin pavilónu a řekl: „Ano, před támhletím leopardem. Pojď, půjdem se tam podívat.“ A když pak překročili práh pavilónu a kráčeli dost těžkým zvířecím dusnem k leopardu, pan Kopfrkingl řekl:
 
 „Tak se mi zdá, Lakmé, že se tu za těch sedmnáct let nic nezměnilo. Podívej, i támhleten had v rohu je tu jako tenkrát,“ ukázal na hada v rohu, který tam hleděl z větve na _mladičkou růžolící dívku_ v černých šatech před klecí, „já jsem se tenkrát před těmi sedmnácti léty divil, že dali hada do pavilónu dravců, když je pro hady zvláštní pavilón… a podívej, i to zábradlí je zde…“ ukázal na zábradlí u leo­parda, k němuž docházeli, a pak se octli u leoparda a zastavili se.
@@ -71,10 +73,14 @@ Hudba dohrála, klarinety a housličky zmlkly, i basa, a páry odešly z par
 
 Byli právě u stanu s dřevěnou pokladnou a barevným vývěsním štítem, na němž stálo:
 
-  
+</section>
+
+<section>
 
 PANOPTIKUM ALA MADAME TUSSAUD
 
 VELKÉ UMÍRÁNÍ ČILI ČERNÁ SMRT
 
 V PRAZE 1680.
+
+</section>

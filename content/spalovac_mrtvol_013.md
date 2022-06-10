@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 V sále seděli skoro až u ringu a Miliho umístili mezi sebe jako růži mezi trní. Obecenstvo přicházelo, usedalo, jedlo eskymo, tu a tam i pilo pivo z lahví nebo půllitrů, v sále se totiž dalo pít pivo z půllitrů nebo z lahví, když si to člověk dal pod židli, byla tu mládež i dospělí a hodně žen, víc žen, než by byl kdo pomyslil. Pan Kopfrkingl zahlédl v první řadě jakousi starší ženu v brýlích, právě si nahýbala z půllitru, a o kus dál nějakou mladou růžolící dívku v černých šatech vedle mládence. Pak trochu pohlédl za sebe a všiml si jedné černé ženy u vchodu, která mu profilem a poprsím někoho připomínala. Podle smíchu, trhání ramen a zmalovaných úst ji měl za horší prostitutku. Pak si vzpomněl, že mu připomíná Maličkou od Malvazu.
 
 „Vidíš támhletu paní,“ řekl Milimu a sáhl do kapsy, „ne tu černou u vchodu, co trhá ramenem, tu v uličce, co prodává eskymo, běž a kup si, a kup taky program.“ Ale Willi ho předešel a dal chlapci peníze sám, byl hostitelem.
@@ -152,3 +154,5 @@ Byli před domem, na němž vedle dveří visela cedulka MUDr. Jakuba Bettelheim
 „Kde máš dnes auto?“ zeptal se pan Kopfrkingl Williho.
 
 „Má ho Erna,“ řekl Willi, „pojedu domů taxíkem.“
+
+</section>

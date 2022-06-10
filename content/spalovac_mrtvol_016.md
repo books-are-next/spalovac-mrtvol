@@ -3,6 +3,8 @@ title: '11'
 contentType: prose
 ---
 
+<section>
+
 A za týden po večeři na židovské radnici přišel 15. březen a s ním vše, co se toho dne stalo a od toho dne dělo, říšská _branná_ moc vtrhla do země. Vůdce přijel do Prahy, říšská vlajka zavlála nad Pražským hradem, domy a snad i nad krematoriem… a pan Karl Kopfrkingl… Pan Kopfrkingl snad, když právě nebyl na svém pracovišti, postával na pražských ulicích a hleděl na armádu, četl německé nápisy nad obchody, snad zašel i na Ovocný trh přečíst si nápis nad knihařstvím pana Kádnera a do Nekázanky přečíst si nápis nad rámařstvím pana Holého, rozhodně však často zašel do Růžové ulice potěšit se aspoň pohledem z druhého chodníku bílým mramorovým vchodem Casina se třemi schody, který mu připomínal vilu boháče či obzvlášť vznešenou obřadní síň anebo též palác úchvatných záhad, takové stříbrné pouzdro… a pak v dubnu, nějak kolem Vůdcových narozenin, se mu konečně dostalo cti, že byl do toho Casina pozván.
 
 V přepychovém sále s koberci, lustry, zrcadly a obrazy tam seděl s přítelem Wilhelmem Reinkem, vedoucím pracovníkem pražského sicherheitsdienstu, a jeho ženou Ernou, měla pěstěnou hlavu a větší náušnice, a také s důstojníky a pracovníky, ale nejen s nimi. Byly tam vynikající číšnice, barmanky a společnice, plavovlasé krásky. Pan Kopfrkingl byl unesen jejich krásou, příchylností a elegancí, unesen vším, co viděl a slyšel, i tím, co jedl a…
@@ -45,10 +47,14 @@ Karl Kopfrkingl strnul.
 
 „Mohu se přece dát _rozvést_, pánové.“
 
-  
+</section>
+
+<section>
 
 Když se zvedli z křesel, Willi a Erna se zastavili s panem Kopfr­kinglem před jedním nádherným obrazem nahé ženy, který visel na opačném konci sálu, než byl pult s koňaky a vínem, a Willi, kterému sluha podal zelený klopený klobouk se šňůrou, řekl:
 
 „Ano, bylo by to nejrozumnější. Dát se rozvést. Můžeš se přece oženit znovu. _Ještě jednou_, ne?“ řekl, pohlédl na Ernu a ta kývla, „ale hlavně by měla Lakmé pochopit, že si nezaslouží s tebou žít. Že se to neslučuje s tvou ctí. Se ctí nacionálně socialistického člověka. Pamatuješ si, jak jednou ten váš doktor Bettelheim…“ řekl a pohlédl na obraz nahé ženy, „se zajímal o její zdraví… sám jsi mi to říkal, ovšem, teď už asi chápeš. Je to zvrhlost, Karl,“ řekl a pohlédl na svůj zelený klopený klobouk se šňůrou, „všechno je to zvrhlost, zvrhlost a nic víc. Slabí a méněcenní, Karl…“ Pak řekl: „Čeká ji, Karl, mnoho strastí…“
 
 Vrátil se domů z Casina až k ránu, všichni spali. V jídelně, kde ještě visel nikaragujský prezident nade dveřmi a u okna visela tabulka na černé šňůře, nejvznešenější jízdní řád, a obraz svatebního průvodu, lehce odehnal kočku, která se vzbudila a přišla k jeho nohám… chvíli hleděl na rodinnou fotografii nad skříňkou, pak vzal z knihovny knížku o Tibetu, sedl si pod stojací lampu a chvíli četl. Pak se mu začaly zavírat pod lampou oči a zdálo se mu, jako by z knížky, jež mu klesala na klín, někdo vystupoval, takový klam nitra, šel spát.
+
+</section>

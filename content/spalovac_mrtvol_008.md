@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 „Koupil jsem ti, nebeská, obrázky,“ řekl pan Kopffkingl nedlouho po návštěvě panoptika ženě v jejich obdivuhodné jídelně, kde kromě jiných věcí byla i knihovna, skříňka, stojací lampa, malé zrcadlo a rádio, „obrázky z prvního rozšířeného příjmu. Aby náš domov byl ještě nádhernější.“
 
 „A poukázal jsi již panu Straussovi provizi?“ zeptala se Lakmé.
@@ -47,7 +49,9 @@ contentType: prose
 
 Pak si Zina před malým zrcadlem v jídelně lehce poupravila vlasy, pan Kopfrkingl šel udělat pořádek ke knihovně, kde se zalíbením narovnal svou nejmilovanější žlutou knížku o Tibetu, pak pohlédl na skříňku, stojací lampu a rádio a pak šel pomáhat Lakmé s přípravou obkládaných chlebíčků. Večer měli přijít Reinkeovi.
 
-  
+</section>
+
+<section>
 
 Reinkeovi patřili k starým přátelům Kopfrkinglů, byť se spolu léta příliš nestýkali. Byli to silní, elegantní lidé. Willi měl šedý oblek s modrou vázankou a zelený lovecký klobouk se šňůrou a jeho žena pěstěnou hlavu a větší náušnice. Lakmé nalila víno, všichni si ťukli, pan Kopfrkingl a Lakmé jen skromně omočili rty, Zina se napila kapku víc, asi jako paní Reinkeová. Pak pan Kopfrkingl vybídl hosty, aby si vzali chlebíčky a slané mandle. Paní Reinkeová si vzala chlebíček na broušenou misku, také Willi si vzal a skoro současně vyňal z kapsy noviny a podal je příteli Kopfrkinglovi _první stránkou vzhůru._
 
@@ -125,9 +129,9 @@ II.
 
 16.15–17.30
 
-  
+</section>
 
-  
+<section>
 
 Willi pohlédl na tuto tabulku a mlčel. Pak pohlédl na exotický obraz, který visel vedle.
 
@@ -186,3 +190,5 @@ Manželé Reinkeovi se zasmáli, Willi vzal svůj zelený lovecký klobouk se š
 „Pustíme rádio, je tam právě pěkný koncert. Jak se daří čarokrásné,“ řekl, jda podruhé za ten večer do kouta podívat se na talíř kočky, a pak řekl:
 
 „Zinuško! Podívej, nenech to zvíře tak trpět, vždyť má v misce už jen na dně… Á, Lisztova Preludia…“ řekl, když rádio začalo hrát, a něžně kočku pohladil.
+
+</section>

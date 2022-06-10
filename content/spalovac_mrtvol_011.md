@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Dosavadní vláda odstoupila a v čelo nové nastoupil jednooký generál, pak vyhlásili mobilizaci. Život se ocitl v děsném kole, ale všechno drželo pohromadě, běželo, letělo vpřed, jen doletět, narazit a tasit zbraně. Za několik dní po vyhlášení mobilizace přinesl pan Fenek do krematoria zvláštní věc.
 
 „Vidíte to, pane Kopfrkingl,“ hořekoval ve vrátnici a strkal panu Kopfrkinglovi pod oči jakousi zasklenou vitrínku, „vidíte to? Tady na těch papírových čtverečcích jsou nalepené mouchy. Tady ty se jmenují banánové čili drosophily, hmyz dvoukřídlý, pane Kopfrkingl, zkoušejí na nich dědičnost. Tahle, pane Kopfrkingl,“ pan Fenek ukázal dlouhým nehtem na malíčku, „má dvě stě druhů a tahle se jmenuje drosophila _funebris._ Nechtěl byste tu vitrínku? Dal bych vám ji, pane Kopfrkingl, lacino. Za špetku…“ pan Fenek ztišil hlas a pozdvihl své zaslzené oči, „za špetku morfia…“
@@ -104,3 +106,5 @@ Z Ovocného trhu zamířil pan Kopfrkingl do Rytířské ulice a tam se zastav
 „Ty mouchy visí nad klavírem už týden a jsou zajímavé. Jedna se jmenuje funebris, pohřební, to je ta velká černá chocholatá moucha, mít rakev a stát vedle ní, vypadala by jako pan Špaček, když si vezme uniformu, pan Špaček je funebrák. Ty ostatní mouchy jsou banánové, na těch se zkouší dědičnost. Zinuško,“ usmál se pan Kopfrkingl vlídně na Milivoje, který stál v rohu s kočkou, jedl věneček a zíral, „blíží se tvé narozeniny. Chci ti koupit nějaké pěkné hedvábné šaty do divadla, společnosti, kina, na procházky s námi, samozřejmě s panem Mílou… zítra bys měla jít se mnou zkusit si je, mám je vyhlédnuté v Rytířské ulici. Naší _nadoblačné_,“ řekl, „jsem v tom krámě koupil hezký bílý krajkový límeček na tmavé sváteční šaty. Mili,“ usmál se do rohu na kočku, a pak šel k Milimu, který dojídal věneček, a kočku pohladil.
 
 „Jak je ta naše dobrá Rosana čistotná,“ řekl, „jak jí chutná. Dnes má mléka dost.“
+
+</section>

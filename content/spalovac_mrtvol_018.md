@@ -3,6 +3,8 @@ title: '13'
 contentType: prose
 ---
 
+<section>
+
 „Nemohl jsem přijít včas,“ řekl pan Kopfrkingl dost suše, ale nikoli nevlídně řediteli Srnci za pár dní po návštěvě Casina a rozhledny v ředitelně, „stalo se, co jsem nepředvídal. Měl jsem porady.“ Ředitel pohlédl na pana Kopfrkingla a neřekl ani slovo, v jeho tváři se nehnul ani sval, nepohnulo ani oko, pan Kopfrkingl se mírně uklonil a šel. „Ředitel,“ řekl si cestou do šatny na schodech, „je nesvůj, jako by tušil, že se kolem něho něco děje. Že se o něm uvažuje a mluví. Že tu už dlouho nebude. Není to zlý člověk,“ řekl si, „ale co naplat. Nelze trpět škůdce na takovýchhle místech. Škůdce na takovýchhle místech by přece netrpěl nikdo, je to samozřejmé, lidské. Co řekl o tom spálení Němců v pecích, to je…“ pan Kopfrkingl prudce zachvěl hlavou, přikryl si dlaní oči a pak přidal do kroku, aby už byl radši v šatně. Došel do šatny a převlékl se. U žárovišť se usmál na Zajíce a Berana, kteří mlčky a chladně sledovali teploměry, mikrofonem znělo z obřadní síně „Čechy krásné, Čechy mé…“ zeptal se jich, kde je pan Dvořák, a Zajíc hodil hlavou na konec chodby k přípravně.
 
 „Upravujete šaty,“ usmál se v přípravně na pana Dvořáka, který stál nad jednou otevřenou rakví a kladl na mrtvou kytičky, a pak přistoupil blíže, nahlédl a řekl: „Má krásné šaty, líbezná, černé hedvábné s límcem, ovšem. Do rakve si lidé zpravidla berou ty nejlepší šaty, co mají. Berou si třeba šaty, pane Dvořák, které na sobě měli jen párkrát v životě. V rakvi, pane Dvořák, chce být každý krásný.“
@@ -39,7 +41,9 @@ Po chvíli ticha se pan Kopfrkingl usmál a řekl:
 
 A pak se s hrůzou dozvěděl, co mu boxer říká, o čem se spolu baví. Proč tak pilně trénuje. Proč se tak pilně učí boxu. Proč musí jeho rány sedět. Protože Němci vtrhli do naší země. Protože jsou násilníci. Protože nám vzali svobodu… A Mili, když to říkal, hleděl jako ovce, a hleděl na kočku a pan Kopfrkingl se přemohl a smutně potřásl hlavou. Na to, abych mu to osvětlil, je ještě čas, myslil si a hleděl na Miliho, brzy mu to vysvětlím, domluvím mu, přesvědčím ho. A šel k rádiu, kde právě dozpívával Almaviva svou sladkou píseň Rosině, a lehce odstrčil kočku, která se vpletla pod nohy.
 
-  
+</section>
+
+<section>
 
 Před svatodušními svátky zatklo gestapo v krematoriu Josefa Zajíce a Berana, pak následoval ředitel Srnec. „Co udělalo to gestapo,“ řekl si pan Karl Kopfrkingl, člen NSDAP s ryze německou duší, „zdá se dost tvrdé. Ale nedalo se asi nic jiného dělat, co naplat. Jde přece o štěstí miliónů lidí. Dopouštěli bychom se zločinu na národě,“ řekl si pan Kopfrkingl, „zločinu na lidstvu, kdybychom se neuměli zbavit škůdců, kdybychom nečinně přihlíželi k jejich dílu zkázy.“ Gestapo zatklo v krematoriu Zajíce, Berana a ředitele Srnce… Mili a Zina jeli na svatodušní svátky k dobré tetě do Slatiňan, která, kdyby byla katolička, byla by po smrti světicí, byla světicí už teď – jeli k ní s kyticí lilií, a v těch dnech se mělo u pana Kopfrkingla rozhodnout o významné věci: o jeho povýšení.
 
@@ -70,3 +74,5 @@ V předsíni si vzal kabát, šel na německou kriminálku a do protokolu nadi
 „Udělala to zřejmě ze zoufalství. Měla židovskou krev a nesnesla žít po mém boku. Snad tušila, že se s ní dám rozvést, že se to nesrovnává s mou německou ctí.“ A sobě v duchu řekl: „Litoval jsem tě, drahá, litoval. Byla jsi skleslá, zamlklá, ovšem, jak by ne, ale já jsem tu oběť jako Němec přinést musil. Zachránil jsem tě, drahá, před utrpením, které by tě jinak čekalo. Jak bys byla, nebeská, s tou svou krví v tom novém šťastném, spravedlivém světě trpěla…“
 
 Lakmé byla zpopelněna v Chrudimi u Slatiňan… a pan Karl Kopfrkingl byl – po svatodušních svátcích – jmenován ředitelem pražského krematoria. _Penzionoval_ pana Vránu ve _vrátnici_ nádvoří, který tam seděl, že měl něco s játry, je už starý, myslil si, je tu už od mého nástupu bezmála před dvaceti léty, ať si odpočine, paní Podzimkové, uklízečce, dal výpověď, vždyť se tu skoro bála, řekl si, _ať ji zbavím strachu, té kletby_… ale pana Dvořáka si ponechal, „víte, pane Dvořák, mně se na vás líbí, že nekouříte a nepijete…“ řekl mu, „že jste abstinent…“, a ponechal si také pana Pelikána a také pana Fenka si ještě nechal. Měl bych ho zachránit, myslil si někdy v ředitelně, sotva se drží na nohou. Když šel kolem vrátnice, pan Fenek plakal a zalézal jako pes.
+
+</section>

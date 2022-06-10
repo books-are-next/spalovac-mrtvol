@@ -3,6 +3,8 @@ title: '14'
 contentType: prose
 ---
 
+<section>
+
 Ano, byl to pro děti otřes, co matka učinila, ale v životě je třeba smířit se s ledačíms.
 
 „Dnes, nejdražší,“ řekl dětem v jídelně pan Kopfrkingl, stoje pod lampou s novinami v rukou, „dnes je život velký boj, žijeme ve velké převratné době a je třeba statečně nést všechny oběti a strasti. Naše nebeská je už blažená jako její matka. Laskavá příroda ji vytrhla z okovů tohoto světa, v klidu se vrátila tam, odkud vzešla, v prach, éter se jí otevřel a možná že už v této chvíli došla v nové tělo, žeh uspišuje… Byla to hodná, dobrá žena,“ řekl s novinami v rukou, „věrná, tichá, skromná, světlo věčné jí už svítí, je už ve svatém pokoji.“ Pak s pohledem do novin řekl:
@@ -27,7 +29,9 @@ Jednou v Casinu v přítomnosti plavé krásky Marie, jež vypadala jako andě
 
 „Blížíme se k Varšavě,“ zasmála se Marlén.
 
-  
+</section>
+
+<section>
 
 V sobotu odpoledne toho týdne, kdy nad Varšavou zavlál hákový kříž a říšská branná moc postupovala dále na východ, oblékl si pan Karl Kopfrkingl nové černé vysoké boty a zelený klopený klobouk se šňůrou a pérem, který si koupil teprve nedávno u německého kloboučníka na Můstku, dal do kapsy saka malé hezké kleštičky a šel ukázat Milimu krematorium, bylo to možné, v sobotu odpoledne se již nespalovalo. Venku bylo krásně. Před domem potkali Jana Bettelheima a Vojtěcha Prachaře. Stáli tam opřeni o zeď a hleděli na parkující auta. Kývli na Miliho a ptali se, kam jde. Pan Kopfrkingl se zastavil, přívětivě se usmál a řekl, že na procházku. Mili hleděl na oba chlapce a ti na něho, jako by v duchu kuli nějaké plány, a pan Kopfrkingl řekl:
 
@@ -41,7 +45,9 @@ Mili si koupil eskymo a věneček a šli dál. Poblíž vinohradského hřbito
 
 „Škoda,“ řekl Milimu a hlas se mu mírně zachvěl, „škoda že tvá nebeská matka není s námi.“ Pak si všiml reklamy a měl dojem, jako by z ní chtělo pár písmenek vyskočit:
 
-  
+</section>
+
+<section>
 
 Závěsy a stóry opravuje
 
@@ -51,7 +57,9 @@ PRAHA-HLOUBĚTÍN
 
 Kateřinská 7
 
-  
+</section>
+
+<section>
 
 „Půjdeme hřbitovem,“ řekl Milimu, „zadem je hezčí cesta než přes nádvoří. Než jsem se stal ředitelem, chodíval jsem tady v poledne na procházku. Škoda že tvá nebeská matka je už v Pánu.“
 
@@ -80,3 +88,5 @@ V rakvi se objevila ostrá bledá vyhublá tvář v parádní zelenošedé uni
 Za čtyři dni potom došel pan Kopfrkingl na německou kriminálku a ohlásil, že pohřešuje šestnáctiletého syna.
 
 „Je to už čtvrtý den a ještě nepřišel,“ řekl, „dělal nám to odmalička, jednou jsme ho dokonce hledali policií, našli ho až u Suchdola, chtěl tam přespat ve stohu. Měl různé romantické nápady, mám strach, zda se nepustil za naší armádou do Polska. V poslední době chodil též s nějakým boxerem.“ Zatím byl Mili již čtyři dny smíchán s popelem čistokrevného esesáka a úkony provedl sám pan ředitel, který si za asistence chápajících a úslužných úsměvů dvou, kteří nastoupili po Zajícovi a Beranovi, osvěžoval u žároviště svou odbornou znalost a zároveň jim ukazoval, jak si váží jejich práce, z níž sám vyšel jako synek dost prostých rodičů, hráli k tomu smuteční pochod z Beethovenovy Eroicy. Předtím Wagnerova Parsifala.
+
+</section>

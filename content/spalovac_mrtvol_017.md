@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 „Jsme zde,“ pan Kopfrkingl se dost nenápadně nadýchl pod zelenými košatými stromy, jako by si chtěl tajně pročistit plíce, „jsme zde.“ Pak si pohladil vlasy, kterými mu provál slabý větřík, ukázal vzhůru a řekl:
 
 „Jaká je to výška. Až tam vyjedeme, budeme nebi blíž o šedesát metrů. No ale to nic,“ usmál se na Lakmé v tmavých šatech a bílém krajkovém límečku, na Zinu v černých hedvábných šatech z narozenin a na Miliho v rádiovce, který lízal eskymo, „to nic. Dějí se velké věci a my je musíme chápat. Když se nekonají vyhlídkové lety, když nemůžeme Prahu vidět z letadla, vyjedeme aspoň semhle a uvidíme ji z šedesáti metrů. Je lepší vidět Prahu z šedesáti metrů než z ničeho,“ řekl a v duchu si myslil než z ničeho nebo ze země anebo z _hloubky ještě větší._ Pak kývl a vybídl své drahé k vstupu dovnitř.
@@ -106,3 +108,5 @@ Vykročili na schody _dvě_ a jali se pomalu sestupovat. První šla Zina v č
 „Zeď, která nás obklopuje a brání nám v rozhledu,“ usmál se na černé vlasy Lakmé před sebou, „v téhle výšce jako by spadla. Je to tu jako na nejvyšší hoře, kde celý svět je u našich nohou.“ Pak řekl: „Smrt je krásná a cenná, ale musí být zajištěn pohřeb žehem. Ne jako chudák ta žena, jejíž pohřeb jsme viděli na Strahově. Kdo má zajištěn pohřeb žehem, ničeho se bát nemusí, může umřít beze strachu,“ usmál se na hlavu Lakmé před sebou a pak pohlédl skrz železné pilíře dolů do hloubky jen o málo menší než šedesát metrů, byli teprve na začátku schodů, vysunul ruku ven do krásného vlahého větříku a řekl: „To by se to skákalo.“
 
 Dole ve vestibulu u zábradlí poblíž pokladny zdvíhala starší žena v brýlích ze země nějaké polámané péro a zpřetrhaný svazek korálů.
+
+</section>
