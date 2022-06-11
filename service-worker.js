@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-e85f37d';
+const CACHE = 'cache-ff668d1';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./spalovac_mrtvol_006.html","./spalovac_mrtvol_007.html","./spalovac_mrtvol_008.html","./spalovac_mrtvol_009.html","./spalovac_mrtvol_010.html","./spalovac_mrtvol_011.html","./spalovac_mrtvol_012.html","./spalovac_mrtvol_013.html","./spalovac_mrtvol_014.html","./spalovac_mrtvol_015.html","./spalovac_mrtvol_016.html","./spalovac_mrtvol_017.html","./spalovac_mrtvol_018.html","./spalovac_mrtvol_019.html","./spalovac_mrtvol_020.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_spalovac_mrtvol_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./spalovac_mrtvol_006.html","./spalovac_mrtvol_007.html","./spalovac_mrtvol_008.html","./spalovac_mrtvol_009.html","./spalovac_mrtvol_010.html","./spalovac_mrtvol_011.html","./spalovac_mrtvol_012.html","./spalovac_mrtvol_013.html","./spalovac_mrtvol_014.html","./spalovac_mrtvol_015.html","./spalovac_mrtvol_016.html","./spalovac_mrtvol_017.html","./spalovac_mrtvol_018.html","./spalovac_mrtvol_019.html","./spalovac_mrtvol_020.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_spalovac_mrtvol_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
