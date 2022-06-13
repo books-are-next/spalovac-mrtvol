@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fuks-spalovac-mrtvol-92fb8cf",
-  "revision": "92fb8cf",
+  "identifier": "fuks-spalovac-mrtvol-6201668",
+  "revision": "6201668",
   "readingOrder": [
     "promo.html",
     "spalovac_mrtvol_006.html",
@@ -30,8 +30,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:32:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155955314
+    "date": "Mon Jun 13 2022 22:01:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157692194
   },
   "documents": [
     {
