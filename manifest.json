@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fuks-spalovac-mrtvol-6201668",
-  "revision": "6201668",
+  "identifier": "fuks-spalovac-mrtvol-e7b22f3",
+  "revision": "e7b22f3",
   "readingOrder": [
     "promo.html",
     "spalovac_mrtvol_006.html",
@@ -30,8 +30,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:01:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157692194
+    "date": "Wed Jun 15 2022 05:57:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272647594
   },
   "documents": [
     {
@@ -349,9 +349,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 823,
-      "ideas": 19,
+      "words": 148,
+      "chars": 967,
+      "ideas": 20,
       "role": "colophon",
       "order": null,
       "prev": "spalovac_mrtvol_020.html",
@@ -369,9 +369,9 @@
   ],
   "totals": {
     "all": {
-      "words": 44119,
-      "chars": 257156,
-      "ideas": 733
+      "words": 44137,
+      "chars": 257300,
+      "ideas": 734
     },
     "chapters": {
       "words": 43983,
