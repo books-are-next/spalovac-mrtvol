@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2462-7"
+      "isbn": "978-80-274-2462-7",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -476,6 +477,6 @@
       "user": "books-are-next",
       "repo": "spalovac-mrtvol"
     },
-    "generatedAt": 1655271746279
+    "generatedAt": 1655364343049
   }
 }

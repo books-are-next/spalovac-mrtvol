@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2462-7
+  contentType: prose
 readingOrder:
   - promo.html
   - spalovac_mrtvol_006.html
