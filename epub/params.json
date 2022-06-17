@@ -1,13 +1,12 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Spalovač mrtvol",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ladislav Fuks",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-20T08:17:51.097Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
       "isbn": "978-80-274-2462-7",
@@ -27,6 +26,8 @@
       "brAfter": "MLP-text-bez1radku--12-12\nMLP-text-bez1radku--0-12\nMLP-text--0-12",
       "blockquote": "",
       "figure": "",
+      "centered": "",
+      "verse": "",
       "em": "MLP-venovani\nMLP-znak-kurziva-11b\nMLP-dopis-bez1radku--I\nchar-style-override-1",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-znak-tucne-11b\nMLP-licence-paragraf",
       "remove": "",
@@ -34,237 +35,246 @@
     },
     "structure": [
       {
-        "filename": "spalovac_mrtvol_001.md",
-        "xhtml": "spalovac_mrtvol_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_002.md",
-        "xhtml": "spalovac_mrtvol_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_003.md",
-        "xhtml": "spalovac_mrtvol_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_004.md",
-        "xhtml": "spalovac_mrtvol_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_005.md",
-        "xhtml": "spalovac_mrtvol_005.xhtml",
-        "id": 4,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_006.md",
-        "xhtml": "spalovac_mrtvol_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "1",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_007.md",
-        "xhtml": "spalovac_mrtvol_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "2",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_008.md",
-        "xhtml": "spalovac_mrtvol_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "3",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_009.md",
-        "xhtml": "spalovac_mrtvol_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "4",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_010.md",
-        "xhtml": "spalovac_mrtvol_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "5",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_011.md",
-        "xhtml": "spalovac_mrtvol_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "6",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_012.md",
-        "xhtml": "spalovac_mrtvol_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "7",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_013.md",
-        "xhtml": "spalovac_mrtvol_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "8",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_014.md",
-        "xhtml": "spalovac_mrtvol_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "9",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_015.md",
-        "xhtml": "spalovac_mrtvol_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "10",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_016.md",
-        "xhtml": "spalovac_mrtvol_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "11",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_017.md",
-        "xhtml": "spalovac_mrtvol_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "12",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_018.md",
-        "xhtml": "spalovac_mrtvol_018.xhtml",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "13",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_019.md",
-        "xhtml": "spalovac_mrtvol_019.xhtml",
-        "id": 18,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "14",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_020.md",
-        "xhtml": "spalovac_mrtvol_020.xhtml",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "15",
-        "subtitle": ""
-      },
-      {
-        "filename": "spalovac_mrtvol_021.md",
-        "xhtml": "spalovac_mrtvol_021.xhtml",
-        "id": 20,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "spalovac_mrtvol_001.md",
+            "xhtml": "spalovac_mrtvol_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_002.md",
+            "xhtml": "spalovac_mrtvol_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_003.md",
+            "xhtml": "spalovac_mrtvol_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_004.md",
+            "xhtml": "spalovac_mrtvol_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_005.md",
+            "xhtml": "spalovac_mrtvol_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Citát",
+            "subtitle": "",
+            "listType": "plain",
+            "children": [],
+            "hiddenTitle": true
+          },
+          {
+            "filename": "spalovac_mrtvol_006.md",
+            "xhtml": "spalovac_mrtvol_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "inToc": true,
+            "title": "1",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_007.md",
+            "xhtml": "spalovac_mrtvol_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "title": "2",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_008.md",
+            "xhtml": "spalovac_mrtvol_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "title": "3",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_009.md",
+            "xhtml": "spalovac_mrtvol_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "title": "4",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_010.md",
+            "xhtml": "spalovac_mrtvol_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "inToc": true,
+            "title": "5",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_011.md",
+            "xhtml": "spalovac_mrtvol_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "inToc": true,
+            "title": "6",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_012.md",
+            "xhtml": "spalovac_mrtvol_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "inToc": true,
+            "title": "7",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_013.md",
+            "xhtml": "spalovac_mrtvol_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "inToc": true,
+            "title": "8",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_014.md",
+            "xhtml": "spalovac_mrtvol_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "inToc": true,
+            "title": "9",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_015.md",
+            "xhtml": "spalovac_mrtvol_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "inToc": true,
+            "title": "10",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_016.md",
+            "xhtml": "spalovac_mrtvol_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "inToc": true,
+            "title": "11",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_017.md",
+            "xhtml": "spalovac_mrtvol_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "inToc": true,
+            "title": "12",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_018.md",
+            "xhtml": "spalovac_mrtvol_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "inToc": true,
+            "title": "13",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_019.md",
+            "xhtml": "spalovac_mrtvol_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "inToc": true,
+            "title": "14",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_020.md",
+            "xhtml": "spalovac_mrtvol_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "inToc": true,
+            "title": "15",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "spalovac_mrtvol_021.md",
+            "xhtml": "spalovac_mrtvol_021.xhtml",
+            "id": 20,
+            "role": "colophon",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          }
+        ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -272,7 +282,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ladislav Fuks",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-20T08:34:45.311Z"
+      "modified": "2020-01-10T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -472,6 +482,6 @@
       "user": "books-are-next",
       "repo": "spalovac-mrtvol"
     },
-    "generatedAt": 1629448486002
+    "generatedAt": 1655364343049
   }
 }
