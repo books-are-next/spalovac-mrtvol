@@ -4,18 +4,19 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Spalovač mrtvol
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Ladislav Fuks
   publisher: Městská knihovna v Praze
   modified: '2021-08-20T08:17:51.097Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2462-7
   contentType: prose
 readingOrder:
   - promo.html
+  - spalovac_mrtvol_005.html
   - spalovac_mrtvol_006.html
   - spalovac_mrtvol_007.html
   - spalovac_mrtvol_008.html
@@ -35,6 +36,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: spalovac_mrtvol_005.html
+        title: Citát
+        hiddenTitle: true
       - link: spalovac_mrtvol_006.html
         title: '1'
       - link: spalovac_mrtvol_007.html
@@ -66,6 +70,7 @@ tocBase:
       - link: spalovac_mrtvol_020.html
         title: '15'
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

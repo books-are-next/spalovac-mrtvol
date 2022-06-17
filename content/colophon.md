@@ -8,7 +8,7 @@ Redakce Markéta Teuchnerová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2462-7 (webová kniha)  
-V MKP 2. elektronické vydání z 16. 6. 2022.
+V MKP 2. elektronické vydání z 17. 6. 2022.
 
 ***
 
@@ -18,13 +18,6 @@ Text díla (Ladislav Fuks: Spalovač mrtvol), publikovaného [Městskou knihovn
 [![image001.jpg](./resources/image001_fmt.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 ![image002.jpg](./resources/image002_fmt.png)
-
-***
-
-_Největší lstí ďábla je,  
-když sám o sobě prohlašuje,  
-že není._
-Giovanni Papini
 
 ***
 
