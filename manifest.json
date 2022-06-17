@@ -8,10 +8,11 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fuks-spalovac-mrtvol-5be8c1a",
-  "revision": "5be8c1a",
+  "identifier": "fuks-spalovac-mrtvol-427f836",
+  "revision": "427f836",
   "readingOrder": [
     "promo.html",
+    "spalovac_mrtvol_005.html",
     "spalovac_mrtvol_006.html",
     "spalovac_mrtvol_007.html",
     "spalovac_mrtvol_008.html",
@@ -30,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:33:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364825056
+    "date": "Fri Jun 17 2022 12:47:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655470057481
   },
   "documents": [
     {
@@ -43,8 +44,28 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "spalovac_mrtvol_006.html",
+      "next": "spalovac_mrtvol_005.html",
       "toc": []
+    },
+    {
+      "title": "Spalovač mrtvol",
+      "file": "spalovac_mrtvol_005.html",
+      "words": 13,
+      "chars": 73,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "spalovac_mrtvol_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
     },
     {
       "title": "1",
@@ -53,8 +74,8 @@
       "chars": 15943,
       "ideas": 38,
       "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
+      "order": 2,
+      "prev": "spalovac_mrtvol_005.html",
       "next": "spalovac_mrtvol_007.html",
       "toc": [
         {
@@ -73,7 +94,7 @@
       "chars": 20746,
       "ideas": 51,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "spalovac_mrtvol_006.html",
       "next": "spalovac_mrtvol_008.html",
       "toc": [
@@ -93,7 +114,7 @@
       "chars": 17365,
       "ideas": 89,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "spalovac_mrtvol_007.html",
       "next": "spalovac_mrtvol_009.html",
       "toc": [
@@ -113,7 +134,7 @@
       "chars": 15266,
       "ideas": 55,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "spalovac_mrtvol_008.html",
       "next": "spalovac_mrtvol_010.html",
       "toc": [
@@ -133,7 +154,7 @@
       "chars": 10340,
       "ideas": 28,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "spalovac_mrtvol_009.html",
       "next": "spalovac_mrtvol_011.html",
       "toc": [
@@ -153,7 +174,7 @@
       "chars": 22879,
       "ideas": 52,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "spalovac_mrtvol_010.html",
       "next": "spalovac_mrtvol_012.html",
       "toc": [
@@ -173,7 +194,7 @@
       "chars": 23562,
       "ideas": 46,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "spalovac_mrtvol_011.html",
       "next": "spalovac_mrtvol_013.html",
       "toc": [
@@ -193,7 +214,7 @@
       "chars": 17265,
       "ideas": 76,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "spalovac_mrtvol_012.html",
       "next": "spalovac_mrtvol_014.html",
       "toc": [
@@ -213,7 +234,7 @@
       "chars": 19590,
       "ideas": 49,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "spalovac_mrtvol_013.html",
       "next": "spalovac_mrtvol_015.html",
       "toc": [
@@ -233,7 +254,7 @@
       "chars": 23164,
       "ideas": 43,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "spalovac_mrtvol_014.html",
       "next": "spalovac_mrtvol_016.html",
       "toc": [
@@ -253,7 +274,7 @@
       "chars": 15801,
       "ideas": 25,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "spalovac_mrtvol_015.html",
       "next": "spalovac_mrtvol_017.html",
       "toc": [
@@ -273,7 +294,7 @@
       "chars": 16267,
       "ideas": 53,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "spalovac_mrtvol_016.html",
       "next": "spalovac_mrtvol_018.html",
       "toc": [
@@ -293,7 +314,7 @@
       "chars": 11680,
       "ideas": 34,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "spalovac_mrtvol_017.html",
       "next": "spalovac_mrtvol_019.html",
       "toc": [
@@ -313,7 +334,7 @@
       "chars": 12835,
       "ideas": 37,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "spalovac_mrtvol_018.html",
       "next": "spalovac_mrtvol_020.html",
       "toc": [
@@ -333,7 +354,7 @@
       "chars": 13591,
       "ideas": 34,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "spalovac_mrtvol_019.html",
       "next": "colophon.html",
       "toc": [
@@ -349,9 +370,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 967,
-      "ideas": 20,
+      "words": 135,
+      "chars": 894,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "spalovac_mrtvol_020.html",
@@ -374,9 +395,9 @@
       "ideas": 734
     },
     "chapters": {
-      "words": 43983,
-      "chars": 256294,
-      "ideas": 710
+      "words": 43996,
+      "chars": 256367,
+      "ideas": 714
     }
   }
 }
