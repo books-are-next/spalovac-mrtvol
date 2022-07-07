@@ -32,7 +32,7 @@ readingOrder:
   - spalovac_mrtvol_018.html
   - spalovac_mrtvol_019.html
   - spalovac_mrtvol_020.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
